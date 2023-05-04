@@ -1,6 +1,6 @@
 #!/bin/sh
-rm skins_legion.lua
-wget https://raw.githubusercontent.com/jamesishandsome/legion-skin/master/skins_legion.lua
+rm skin_legion.lua
+wget https://raw.githubusercontent.com/jamesishandsome/legion-skin/master/skin_legion.lua
 rm apublicsupporter.lua
 wget https://raw.githubusercontent.com/jamesishandsome/legion-skin/master/apublicsupporter.lua
 cd prefabs
